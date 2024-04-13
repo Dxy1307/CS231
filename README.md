@@ -3,7 +3,7 @@
 This repository contains my solutions to the assignments of the course [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/).
 
 ## Assignment 1:
-- [Q1: k-Nearest Neighbor classifier](assignment1/knn.ipynb)
+- [Q1: k-Nearest Neighbor classifier](assignment1/knn.ipynb) (Completed)
 - [Q2: Training a Support Vector Machine](assignment1/svm.ipynb)
 - [Q3: Implement a Softmax classifier](assignment1/softmax.ipynb)
 - [Q4: Two-Layer Neural Network](assignment1/two_layer_net.ipynb)

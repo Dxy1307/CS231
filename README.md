@@ -5,7 +5,7 @@ This repository contains my solutions to the assignments of the course [CS231n: 
 ## Assignment 1:
 - [Q1: k-Nearest Neighbor classifier](assignments/assignment1/knn.ipynb) (Completed)
 - [Q2: Training a Support Vector Machine](assignments/assignment1/svm.ipynb) (Completed)
-- [Q3: Implement a Softmax classifier](assignments/assignment1/softmax.ipynb)
+- [Q3: Implement a Softmax classifier](assignments/assignment1/softmax.ipynb) (Completed)
 - [Q4: Two-Layer Neural Network](assignments/assignment1/two_layer_net.ipynb)
 - [Q5: Higher Level Representations: Image Features](assignments/assignment1/features.ipynb)
 
